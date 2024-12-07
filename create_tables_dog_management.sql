@@ -1,3 +1,6 @@
+CREATE DATABASE dogMangagement;
+USE dogManagement; 
+
 CREATE TABLE Shelter (
     shelterID INT PRIMARY KEY AUTO_INCREMENT,
     phoneNumber VARCHAR(15),
